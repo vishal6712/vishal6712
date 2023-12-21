@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kadamv6712@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IeEBi_eiPWquHsfA5FckOWvBZ9LMqVBx/view?usp=share_link](https://drive.google.com/file/d/1IeEBi_eiPWquHsfA5FckOWvBZ9LMqVBx/view?usp=share_link)
+- 📄 Know about my experiences [https://portfoliobyvk.netlify.app/](https://portfoliobyvk.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
