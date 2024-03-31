@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal6712&label=Profile%20views&color=0e75b6&style=flat" alt="vishal6712" /> </p>
 
-- 🔭 I’m currently working on **Node Projects**
-
-- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishal6712](https://github.com/vishal6712)
 
